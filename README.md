@@ -740,4 +740,7 @@ canvas {
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
 
+check out live [here](https://applepie-alpha.vercel.app/)
+
 #
+
